@@ -55,6 +55,7 @@
 			<configuration>
 				<zapPort>8443</zapPort>
 				<targetUrl>http://52.16.226.150:8888/petclinic</targetUrl>
+				<zapHost>52.16.226.150</zapHost>
 				<shouldRunWithDocker>true</shouldRunWithDocker>
 			</configuration>
 			<executions>
