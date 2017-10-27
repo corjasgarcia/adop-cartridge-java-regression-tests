@@ -53,7 +53,7 @@
 			<artifactId>zap-maven-plugin</artifactId>
 			<version>1.2.1-0</version>
 			<configuration>
-				<zapPort>9000</zapPort>
+				<zapPort>8443</zapPort>
 				<targetUrl>http://52.16.226.150:8888/petclinic</targetUrl>
 				<shouldRunWithDocker>true</shouldRunWithDocker>
 			</configuration>
