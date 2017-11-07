@@ -65,6 +65,7 @@
                 <testFilesIncluded>
                     <jMeterTestFile>/workspace/testPipeline/RepoOne/src/test/jmeter/*.jmx</jMeterTestFile>
                 </testFilesIncluded>
+	</configuration>
   </plugin>
   </plugins>
     <resources>
