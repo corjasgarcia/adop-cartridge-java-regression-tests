@@ -58,7 +58,7 @@
                         <configuration>
                             <testResultsTimestamp>false</testResultsTimestamp>
 							<testFilesIncluded>
-								<jMeterTestFile>/workspace/testPipeline/RepoOne/src/test/jmeter/*.jmx</jMeterTestFile>
+								<jMeterTestFile>src/test/jmeter/*.jmx</jMeterTestFile>
 							</testFilesIncluded>
                         </configuration>
                         <executions>
