@@ -47,6 +47,7 @@
 		</dependency>
 	</dependencies>
       <!-- add JMeter integration tests -->
+	  <profiles>
         <profile>
             <id>jmeter-tests</id>
             <build>
@@ -79,4 +80,5 @@
 				</resources>
             </build>
         </profile>
+		</profiles>
 </project>
