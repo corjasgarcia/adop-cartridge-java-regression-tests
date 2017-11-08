@@ -59,7 +59,7 @@
                         <configuration>
                             <testResultsTimestamp>false</testResultsTimestamp>
 							<testFilesIncluded>
-								<jMeterTestFile>src/test/jmeter/*.jmx</jMeterTestFile>
+								<jMeterTestFile>RepoOne/src/test/jmeter/*.jmx</jMeterTestFile>
 							</testFilesIncluded>
 							<jmeterVersion>2.13</jmeterVersion>
                         </configuration>
